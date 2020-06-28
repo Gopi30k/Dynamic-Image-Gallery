@@ -7,4 +7,4 @@ Site link - [Image Gallery](https://upbeat-leavitt-99fdd2.netlify.app/)
 
 
 
-![Demo of App](/Projects/JavaScript/Dynamic_Masonry_Image_Gallery/images/Demo/Photo_Gallery.gif)
+![Demo of App](images/Demo/Photo_Gallery.gif)
